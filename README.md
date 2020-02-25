@@ -43,6 +43,8 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
 
 ### How it works
 #### Contact Sensor
+The contact sensor has a simple mechanism that allows for detecting whether the sensor is pressed or not. The top panel is covered with copper tape connected to a pin on the arduino. The bottom panel is also covered with copper tape connected to a different pin on the arduino. The two panels are separated by default using thin separators. When pressure is applied on the top panel, the top panel slightly flexes, creating an electrical connection between the top and bottom panels.
+
 <img src="touchpad_demo.gif" height="250"> <img src="touchpad1.jpeg" height="250">
 
 #### Sensor Grid
