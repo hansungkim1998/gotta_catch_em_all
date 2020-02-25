@@ -49,6 +49,7 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
 1. (Optional) Connect and set up the contact sensor grid.
    - Open [PokemonGame.pde](PokemonGame/PokemonGame.pde) using Processing.
      - On line 21, modify the variable from `usePort = false` to `usePort = true`
+   - Connect Contact Sensor Grid to Arduino
    - Upload code and connect to Arduino
      - Upload [InputPad.ino](PokemonGame/InputPad/InputPad.ino) to the Arduino.
      - Keep the Arduino connected to the computer
