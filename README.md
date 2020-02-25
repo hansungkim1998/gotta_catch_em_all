@@ -57,10 +57,10 @@ The top panels of the contact sensors are connected to each other vertically to 
 <img src="grid_demo.gif" height="250"> <img src="grid1.jpeg" height="250">
 
 ### Construction Instructions
-1. Cut the white tile boards into the following dimensions:
-   - 32x 11.5"x11.5" squares
-   - 2x 4'x4' squares
-   - 2x 2'x4' rectangles
+1. Cut the white tile boards into the following dimensions and quantities:
+   - 11.5"x11.5" squares x32
+   - 4'x4' squares x2
+   - 2'x4' rectangles x2
 2. Apply copper tape
    - Apply copper tape to the back side of the top panels.
    - Apply copper tape to the top side of the bottom panels, connecting them vertically to form a total of 8 columns.
@@ -72,6 +72,7 @@ The top panels of the contact sensors are connected to each other vertically to 
    - Solder 2 series of panels to each row.
    - Solder each row to wires for plugging into the Arduino.
    - Solder the columns from Step 2 to wires for plugging into the Arduino.
+   - Hide all wiring in between the two 2'x4' white tile boards.
 5. Test
    - Plug all wires into the Arduino.
    - Upload [InputPad.ino](PokemonGame/InputPad/InputPad.ino) to the Arduino.
