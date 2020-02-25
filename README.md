@@ -23,6 +23,23 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
    
 ## (Optional) Building the Contact Sensor Grid
 ### Materials
+- 3x [White Tile Boards](https://www.homedepot.com/p/EUCATILE-32-sq-ft-96-in-x-48-in-Hardboard-Thrifty-White-Tile-Board-HDDPTW48/205995949)
+- 3x [2 inch Copper Tape](https://www.amazon.com/gp/product/B07C6YLNYL/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+- 2x [Rubber Playground Balls](https://www.amazon.com/gp/product/B0000C8648/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
+### Tools
+- Woodworking Tools
+  - Bandsaw
+  - Tablesaw
+- Electronics Equipment
+  - Soldering iron
+  - Wiring kit (wires, wire strippers, electrical tape, solder, etc.)
+- Basic Tools
+  - Scissors
+  - Glue gun
+
+### How it works
+
 ### Construction Instructions
 
 ## Running the Game
