@@ -95,3 +95,16 @@ The top panels of the contact sensors are connected to each other vertically to 
 2. Run the game through Processing
    - Open [PokemonGame.pde](PokemonGame/PokemonGame.pde) using Processing.
    - Run by pressing Sketch > Present or by pressing the shortcut `Shift + Command + R`
+
+## Playing the Game
+### Rules:
+- The game is played by 2 players (or 2 teams).
+- Each players starts with 1 playground ball.
+- Each player must throw a ball from behind their side of the playing field to catch pokémon on the other side by hitting the square the pokémon is in with the ball.
+- Each player must throw a ball from behind their side of the playing field to catch pokémon on the other side.
+- First player to catch all four pokémon (Bulbasaur, Charmander, Squirtle, and Pikachu) first wins the game.
+- Each pokémon has a unique move
+  - Bulbasaur moves randomly to adjacent squares.
+  - Charmander uses dig to disappear and appear in a random square.
+  - Squirtle uses protect to cast a shield that blocks a single pokéball.
+  - Pikachu uses double team to create 4 illusions randomly spread out on the squares that disappear once hit.
