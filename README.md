@@ -96,7 +96,7 @@ The top panels of the contact sensors are connected to each other vertically to 
      
 2. Run the game through Processing
    - Open [PokemonGame.pde](PokemonGame/PokemonGame.pde) using Processing.
-   - Run by pressing Sketch > Present or by pressing the shortcut `Shift + Command + R`
+   - Run by pressing Sketch > Present or by pressing the shortcut `Shift + Command + R` on Mac or `Shift + Ctrl + R` on Windows.
 
 ## Playing the Game
 ### Rules:
