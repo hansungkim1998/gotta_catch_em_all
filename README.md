@@ -42,7 +42,10 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
   - Glue gun
 
 ### How it works
+#### Contact Sensor
 <img src="touchpad_demo.gif" width="400">
+
+#### Sensor Grid
 
 ### Construction Instructions
 
