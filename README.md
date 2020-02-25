@@ -46,6 +46,7 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
 <img src="touchpad_demo.gif" width="400">
 
 #### Sensor Grid
+<img src="grid_demo.gif" width="400">
 
 ### Construction Instructions
 
