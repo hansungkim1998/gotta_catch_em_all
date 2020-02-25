@@ -9,6 +9,8 @@ This project can be run just on the computer with a keyboard as input, but for t
 
 This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive Products in Fall 2019 at the Georgia Institute of Technology. The original presentation for the project can be found [here](Presentation.pdf) and the video can be found [here](https://drive.google.com/open?id=1EMmAZx8vx8kNBeF9AtVb7qij_3s1D3JW).
 
+[<img src="https://drive.google.com/open?id=1EMmAZx8vx8kNBeF9AtVb7qij_3s1D3JW/0.jpg" width = 400>](https://drive.google.com/open?id=1EMmAZx8vx8kNBeF9AtVb7qij_3s1D3JW).
+
 ## Requirements
 ### Devices
 1. Computer (macOS or Windows)
