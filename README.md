@@ -42,7 +42,7 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
   - Glue gun
 
 ### How it works
-<img src="touchpad_demo.gif" width="200">
+<img src="touchpad_demo.gif" width="500">
 
 ### Construction Instructions
 
