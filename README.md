@@ -7,5 +7,8 @@
 ## (Optional) Building the Contact Sensor Grid
 ## Running the Game
 1. (Optional) Connect and set up the contact sensor grid.
-   - Open PokemonGame.pde using Processing.
+   - Open [PokemonGame.pde](PokemonGame/PokemonGame.pde) using Processing.
      - On line 21, modify the variable from `usePort = false` to `usePort = true`
+   - Upload code and connect to Arduino
+     - Upload [InputPad.ino](PokemonGame/InputPad/InputPad.ino) to the Arduino.
+     - Keep the Arduino connected to the computer
