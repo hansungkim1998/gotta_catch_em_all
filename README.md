@@ -77,6 +77,8 @@ The top panels of the contact sensors are connected to each other vertically to 
    - Plug all wires into the Arduino.
    - Upload [InputPad.ino](PokemonGame/InputPad/InputPad.ino) to the Arduino.
    - Open the serial montor to check for the pads are functioning.
+6. (Optional) Painting the playground balls
+   - Paint the red playground balls with the black and white paint to look like pokéballs.
 
 ## Running the Game
 1. (Optional) Connect and set up the contact sensor grid.
