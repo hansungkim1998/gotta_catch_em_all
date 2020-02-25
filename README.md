@@ -43,7 +43,7 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
 
 ### How it works
 #### Contact Sensor
-The contact sensor has a simple mechanism that allows for detecting whether the sensor is pressed or not. The top panel is covered with copper tape connected to a pin on the arduino. The bottom panel is also covered with copper tape connected to another pin on the arduino. There is no connection by default because a small gap exists between the two panels created by thin separators. When pressure is applied on the top panel, the top panel slightly flexes, causing the copper tapes on the two panels to touch, thus creating an electrical connection.
+The contact sensor has a simple mechanism that allows for detecting whether the sensor is pressed or not. The top panel is covered with copper tape connected to a pin on the arduino. The bottom panel is also covered with copper tape connected to another pin on the arduino. There is no connection by default because a small gap exists between the two panels created by thin spacers. When pressure is applied on the top panel, the top panel slightly flexes, causing the copper tapes on the two panels to touch, thus creating an electrical connection.
 
 <img src="touchpad_demo.gif" height="250"> <img src="touchpad1.jpeg" height="250">
 
@@ -58,9 +58,24 @@ The top panels of the contact sensors are connected to each other vertically to 
 
 ### Construction Instructions
 1. Cut the white tile boards into the following dimensions:
-   - 32 11.5"x11.5" squares
-   - 2 4'x4' squares
-   - 2 2'x4' rectangles
+   - 32x 11.5"x11.5" squares
+   - 2x 4'x4' squares
+   - 2x 2'x4' rectangles
+2. Apply copper tape
+   - Apply copper tape to the back side of the top panels.
+   - Apply copper tape to the top side of the bottom panels, connecting them vertically to form a total of 8 columns.
+3. Apply spacers
+   - Apply 0.25"x0.25" size velcro pieces (hook side) in each corner of each top panel.
+   - Apply 0.25"x0.25" size velcro pieces (loop side) in each spot corresponding to the hook side velcros.
+4. Solder using wires
+   - Solder to create 8 series of panels, each with 4 panels in series.
+   - Solder 2 series of panels to each row.
+   - Solder each row to wires for plugging into the Arduino.
+   - Solder the columns from Step 2 to wires for plugging into the Arduino.
+5. Test
+   - Plug all wires into the Arduino.
+   - Upload [InputPad.ino](PokemonGame/InputPad/InputPad.ino) to the Arduino.
+   - Open the serial montor to check for the pads are functioning.
 
 ## Running the Game
 1. (Optional) Connect and set up the contact sensor grid.
