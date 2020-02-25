@@ -43,14 +43,22 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
 
 ### How it works
 #### Contact Sensor
-The contact sensor has a simple mechanism that allows for detecting whether the sensor is pressed or not. The top panel is covered with copper tape connected to a pin on the arduino. The bottom panel is also covered with copper tape connected to a different pin on the arduino. The two panels are separated by default using thin separators. When pressure is applied on the top panel, the top panel slightly flexes, creating an electrical connection between the top and bottom panels.
+The contact sensor has a simple mechanism that allows for detecting whether the sensor is pressed or not. The top panel is covered with copper tape connected to a pin on the arduino. The bottom panel is also covered with copper tape connected to another pin on the arduino. There is no connection by default because a small gap exists between the two panels created by thin separators. When pressure is applied on the top panel, the top panel slightly flexes, causing the copper tapes on the two panels to touch, thus creating an electrical connection.
 
 <img src="touchpad_demo.gif" height="250"> <img src="touchpad1.jpeg" height="250">
 
 #### Sensor Grid
+To detect which specific sensor is triggered from a matrix of sensors, the multiplexing mechanism commonly used in keypads is used. The mechanism allows to detect an `m x n` number of inputs from `m + n` number of pins on the Arduino.
+
+The top panels of the contact sensors are connected to each other vertically to form 8 columns and the bottom panels are connected to each other horizontally to form 4 rows. When one contact sensor is activated, it can be identified by the row and column the connection occurs. Each combination of the rows and columns is assigned a character for the Arduino to output through the serial port.
+
 <img src="grid_demo.gif" height="250"> <img src="grid1.jpeg" height="250">
 
 ### Construction Instructions
+1. Cut the white tile boards into the following dimensions:
+   - 32 11.5"x11.5" squares
+   - 2 4'x4' squares
+   - 2 2'x4' rectangles
 
 ## Running the Game
 1. (Optional) Connect and set up the contact sensor grid.
