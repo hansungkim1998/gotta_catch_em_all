@@ -5,7 +5,7 @@
 ## Description
 Gotta Catch 'em All is an interactive Pokémon-themed game inspired by foursquare and the Pokémon games. The game brings together the active aspects from the well-known playground game of foursquare and the familiarity of Pokémon to create a fun, interactive experience that brings back the child in all of us.
 
-This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive Products in Fall 2019 at the Georgia Institute of Technology. The original presentation for the project can be found [here](gotta_catch_em_all/Gotta\ Catch\ \'Em\ All.pdf).
+This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive Products in Fall 2019 at the Georgia Institute of Technology. The original presentation for the project can be found [here](Gotta Catch 'Em All.pdf).
 
 ## Requirements
 1. Install [Processing](https://processing.org/download/) and required packages.
