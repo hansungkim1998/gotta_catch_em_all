@@ -18,7 +18,7 @@ PFont gameFont;
 Board board;
 String inputCode;
 
-boolean usePort = true;
+boolean usePort = false;
 
 void setup() {
   if (usePort) {
