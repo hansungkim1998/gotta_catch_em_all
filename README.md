@@ -43,10 +43,10 @@ This project was done with Joy Brown and Shiwen Jiang for ID 3510: Interactive P
 
 ### How it works
 #### Contact Sensor
-<img src="touchpad_demo.gif" width="400">
+<img src="touchpad_demo.gif" width="400"> <img src="touchpad1.jpeg" width="400">
 
 #### Sensor Grid
-<img src="grid_demo.gif" width="400">
+<img src="grid_demo.gif" width="400"> <img src="grid1.jpeg" width="400">
 
 ### Construction Instructions
 
