@@ -50,7 +50,7 @@ The contact sensor has a simple mechanism that allows for detecting whether the 
 #### Sensor Grid
 To detect which specific sensor is triggered from a matrix of sensors, the multiplexing mechanism commonly used in keypads is used. The mechanism allows to detect an `m x n` number of inputs from `m + n` number of pins on the Arduino.
 
-<img src="grid_demo.gif" width="800">
+<img src="grid_diagram.png" width="800">
 
 The top panels of the contact sensors are connected to each other vertically to form 8 columns and the bottom panels are connected to each other horizontally to form 4 rows. When one contact sensor is activated, it can be identified by the row and column the connection occurs. Each combination of the rows and columns is assigned a character for the Arduino to output through the serial port.
 
