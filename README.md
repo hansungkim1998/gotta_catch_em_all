@@ -1,6 +1,6 @@
 # Gotta Catch 'em All
 ## Disclaimer
-***Disclaimer: The Pokémon name, trademark and franchise are all Copyright to Nintendo Co., Ltd., The Pokémon Company, Creatures Inc. and Game Freak Inc. This game is intended as a Fan Game and a course project, and claims no rights or association with aforementioned companies or their products.***
+***Disclaimer: The Pokémon name, trademark and franchise are all Copyright to Nintendo Co., Ltd., The Pokémon Company, Creatures Inc. and Game Freak Inc. This game is intended as a fan game and a course project, and claims no rights or association with aforementioned companies or their products.***
 
 ## Description
 Gotta Catch 'em All is an interactive Pokémon-themed game inspired by foursquare and the Pokémon games. The game brings together the active aspects from the well-known playground game of foursquare and the familiarity of Pokémon to create a fun, interactive experience that brings back the child in all of us.
